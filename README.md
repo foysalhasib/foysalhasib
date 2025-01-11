@@ -3,7 +3,16 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/FHasib82006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/FoysalHasibItAcademy)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/FHasib82006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/FoysalHasibItAcademy)  
+
+
+
+
+
+
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=foysalhasib)](https://github.com/ryo-ma/github-profile-trophy)
 
