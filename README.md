@@ -10,9 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=foysalhasib)](https://github.com/ryo-ma/github-profile-trophy)
 
- 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=foysalhasib&show_icons=true)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=foysalhasib)  
