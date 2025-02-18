@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Foysal Hasib.
-#### I'm a MERN Stack Developer.
+#### I'm a MERN Stack Developer. I specialize in building responsive, dynamic web applications using MongoDB, Express, React, and Node.js for scalable solutions.
 
 
  
